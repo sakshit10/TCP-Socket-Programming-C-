@@ -1,0 +1,14 @@
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\bin\Debug\net8.0\Client.exe
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\bin\Debug\net8.0\Client.dll
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\obj\Debug\net8.0\Client.dll
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\akkik\source\repos\ProgrammingAssignment\Client\obj\Debug\net8.0\ref\Client.dll
